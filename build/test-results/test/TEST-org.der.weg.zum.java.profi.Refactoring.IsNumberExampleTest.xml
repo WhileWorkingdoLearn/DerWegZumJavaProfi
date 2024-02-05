@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.der.weg.zum.java.profi.Refactoring.IsNumberExampleTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-12-01T17:02:47" hostname="LAPTOP-R1OAFDQH" time="0.019">
+  <properties/>
+  <testcase name="testNumberPositive()" classname="org.der.weg.zum.java.profi.Refactoring.IsNumberExampleTest" time="0.013"/>
+  <testcase name="testNumberNegative()" classname="org.der.weg.zum.java.profi.Refactoring.IsNumberExampleTest" time="0.001"/>
+  <testcase name="testNumberInputLength0()" classname="org.der.weg.zum.java.profi.Refactoring.IsNumberExampleTest" time="0.001"/>
+  <testcase name="testNumberInputLength1()" classname="org.der.weg.zum.java.profi.Refactoring.IsNumberExampleTest" time="0.001"/>
+  <testcase name="testInvalidInput()" classname="org.der.weg.zum.java.profi.Refactoring.IsNumberExampleTest" time="0.001"/>
+  <testcase name="testNullInput()" classname="org.der.weg.zum.java.profi.Refactoring.IsNumberExampleTest" time="0.002"/>
+  <testcase name="testValidNumberInput()" classname="org.der.weg.zum.java.profi.Refactoring.IsNumberExampleTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
